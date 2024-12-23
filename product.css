@@ -21,21 +21,14 @@ nav {
     margin-left: 13px;
 }
 
-.main {
-    display: flex;
-}
-
-.ana-e-majt {
-    background-color: rgb(162, 137, 250);
-    width: 500px;
-    padding-left: 50px;
-}
-
-.posht-main {
-    display: flex;
-    justify-content: space-between;
-}
 a {
     color: black;
     text-decoration: none;
+}
+
+.tri-senet {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 600px;
 }
